@@ -1,0 +1,6 @@
+[submodule "AndroidDesktop"]
+	path = AndroidDesktop
+	url = https://code.google.com/p/articles-glmf.androiddesktop/
+[submodule "d2d_buzzer_test"]
+	path = d2d_buzzer_test
+	url = https://code.google.com/p/droid2droid.buzzertst/
